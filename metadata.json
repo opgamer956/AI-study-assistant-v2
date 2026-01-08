@@ -1,0 +1,8 @@
+{
+  "name": "NCTB AI Study Assistant",
+  "description": "An AI-powered study companion for Bangladeshi students (Class 1-12) offering exam guidance, quizzes, and syllabus-based explanations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
